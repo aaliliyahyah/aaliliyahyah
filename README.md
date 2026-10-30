@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Header: Pink and Yellow gradient -->
+<!-- Header: Pink and Purple gradient -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=255,182,193,128,0,128&height=200&section=header&text=hello%2C%20world!&fontSize=60&fontColor=ffffff&fontAlignY=38&font=dancingScript" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
@@ -11,8 +11,35 @@
 
 <br/>
 
-## ✧ about me
-<div align="center" style="background-color: #FFF5F8; border: 2px solid #E1BEE7; border-radius: 15px; padding: 20px;">
+## <font color="#F06292">✧</font> <font color="#9575CD">tech stack</font>
+
+<div align="center">
+
+**Design:** 
+[![Figma](https://img.shields.io/badge/Figma-F8BBD0?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) 
+[![Canva](https://img.shields.io/badge/Canva-F8BBD0?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
+
+**Front-end:** 
+[![HTML](https://img.shields.io/badge/HTML-9575CD?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/) 
+[![CSS](https://img.shields.io/badge/CSS-9575CD?style=for-the-badge&logo=css3&logoColor=white)](https://css.com/) 
+[![JS](https://img.shields.io/badge/JS-9575CD?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com/)
+
+**Tools:** 
+[![Git](https://img.shields.io/badge/Git-FFF176?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
+[![GitHub](https://img.shields.io/badge/GitHub-FFF176?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) 
+[![VSCode](https://img.shields.io/badge/VSCode-FFF176?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+
+**Currently learning:** 
+[![React](https://img.shields.io/badge/React-E1BEE7?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/) 
+[![TS](https://img.shields.io/badge/TS-E1BEE7?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org/)
+
+</div>
+
+<br/>
+
+## <font color="#F06292">⋆˚✿˖°</font> <font color="#9575CD">about me</font>
+
+<div align="center" style="background: linear-gradient(135deg, #FFF5F8, #F3E5F5); border: 3px solid #E1BEE7; border-radius: 20px; padding: 25px; color: #7E57C2;">
   
 I am a creative developer who loves blending aesthetics with functionality. My focus is on creating delightful, user-centered digital experiences that feel as good as they look. I enjoy the process of translating concepts into polished, responsive code.
 
@@ -24,19 +51,7 @@ I am a creative developer who loves blending aesthetics with functionality. My f
 
 <br/>
 
-## ✧ tech stack
-
-<div align="center">
-
-[![UI/UX](https://img.shields.io/badge/UI%2FUX-F8BBD0?style=for-the-badge&logo=sketch&logoColor=white)](https://www.figma.com/)
-[![Frontend](https://img.shields.io/badge/Frontend-9575CD?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/)
-[![Design](https://img.shields.io/badge/Design-FFF176?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
-
-</div>
-
-<br/>
-
-## ˚ʚ♡ɞ˚ let's connect
+## <font color="#F06292">˚ʚ♡ɞ˚</font> <font color="#9575CD">let's connect</font>
 
 <div align="center">
 
@@ -45,7 +60,7 @@ I am a creative developer who loves blending aesthetics with functionality. My f
 
 <br/>
 
-<sub>made with 💗 and way too much matcha 🍵</sub>
+<sub>fueled by infinite cups of coffee and creative chaos ☕✨</sub>
 
 </div>
 

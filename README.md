@@ -2,7 +2,6 @@
 
 <!-- Header: Pastel Purple & Pink Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=149,117,205,206,147,216,248,187,208&height=160&section=header&text=HELLO%2C%20WORLD!&fontSize=34&fontColor=ffffff&fontAlignY=38&font=Fira+Code" width="100%" alt="HEADER" />
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=9575CD&center=true&vCenter=true&width=500&lines=HI%2C+I'M+AALIYAH+CATOLICO+%E2%9C%A7;FRONT-END+%2B+DESIGN+ENTHUSIAST;TURNING+IDEAS+INTO+PRETTY+PIXELS" alt="TYPING SVG" />
 </a>
@@ -14,6 +13,8 @@
 <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/CANVA-CE93D8?style=for-the-badge&logo=canva&logoColor=white" alt="CANVA"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E1BEE7?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-B39DDB?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+<br/>
+<a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/BOOTSTRAP-AB47BC?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JAVASCRIPT-9575CD?style=for-the-badge&logo=javascript&logoColor=white" alt="JAVASCRIPT"/></a>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-F48FB1?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/></a>
 <a href="https://github.com/"><img src="https://img.shields.io/badge/GITHUB-CE93D8?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB"/></a>

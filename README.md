@@ -1,60 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,24&height=200&section=header&text=hello%2C%20world!%20%E2%99%A1&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="header" />
+<!-- Header: Pink and Yellow gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=255,182,193,255,255,224&height=200&section=header&text=hello%2C%20world!%20%E2%99%A1&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=9575CD&center=true&vCenter=true&width=480&lines=hi%2C+i'm+Aaliyah+Catolico+%E2%9C%A7;front-end+%2B+design+enthusiast+%F0%9F%8C%B8;turning+ideas+into+pretty+pixels+%E2%99%A1" alt="Typing SVG" />
 </a>
 
+</div>
+
 <br/>
 
-![profile views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=visitors&color=E1BEE7&style=flat-square)
+## ✧ about me
+<div align="left">
+  
+I am a creative developer who loves blending aesthetics with functionality. My focus is on creating delightful, user-centered digital experiences that feel as good as they look. I enjoy the process of translating concepts into polished, responsive code.
+
+*   **Design-first mindset:** Always thinking about the user journey.
+*   **Code enthusiast:** Passionate about writing clean, maintainable, and modern code.
+*   **Lifelong learner:** Currently exploring new ways to push the boundaries of web design.
 
 </div>
 
 <br/>
 
-## ⋆˚✿˖° about me
-
-```text
-🎀  i design cozy, user-friendly interfaces
-🌷  i bring them to life with HTML & CSS
-☁️  i believe good design feels like a warm hug
-🍓  currently learning: more CSS magic & design systems
-🌙  fun fact: i can lose hours tweaking a single border-radius
-```
-
-<br/>
-
-## ✧ my tech stack
+## ✧ tech stack
 
 <div align="center">
 
 <!-- Custom SVG Icons -->
-<a href="https://www.figma.com/"><svg height="40" width="40" viewBox="0 0 24 24" fill="#9575CD"><path d="M15 12h-3v3h3v-3zM15 9h-3V6h3v3zM9 12H6v3h3v-3zM9 9H6V6h3v3zM12 21c-1.66 0-3-1.34-3-3v-3h3v3h3c1.66 0 3-1.34 3-3V6c0-1.66-1.34-3-3-3H6v9H3v3c0 1.66 1.34 3 3 3h3v3z"/></svg></a>
-<a href="https://www.w3.org/html/"><svg height="40" width="40" viewBox="0 0 24 24" fill="#F06292"><path d="M5 3l3.05 11.46 6.09 1.63L20.25 3H5zm2.85 2h9.7l-0.8 3H8.55l-0.7-3zm0 4h8.3l-0.7 2.6H8.55l-0.7-2.6z"/></svg></a>
-<a href="https://www.w3.org/Style/CSS/"><svg height="40" width="40" viewBox="0 0 24 24" fill="#9575CD"><path d="M5 3l3.05 11.46 6.09 1.63L20.25 3H5zm2.85 2h9.7l-0.8 3H8.55l-0.7-3zm0 4h8.3l-0.7 2.6H8.55l-0.7-2.6z"/></svg></a>
-
-</div>
-
-<br/>
-
-## ♡ what i love making
-
-| 🎨 design | 💻 code |
-| :--- | :--- |
-| wireframes & prototypes in Figma | semantic, tidy HTML |
-| social graphics & decks in Canva | responsive, pastel-perfect CSS |
-| user flows & thoughtful UX | soft hover effects & animations |
-
-<br/>
-
-## ✿ github stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&bg_color=FFF5F8&title_color=F06292&text_color=9575CD&icon_color=F48FB1&ring_color=F48FB1" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&bg_color=FFF5F8&title_color=F06292&text_color=9575CD" alt="top languages" />
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <svg height="40" width="40" viewBox="0 0 24 24" fill="#F06292"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg><br><b>UI/UX</b>
+    </td>
+    <td align="center" width="100">
+      <svg height="40" width="40" viewBox="0 0 24 24" fill="#9575CD"><path d="M12 2L4.5 20.29l.71.71L12 18l6.79 3 .71-.71z"/></svg><br><b>Frontend</b>
+    </td>
+    <td align="center" width="100">
+      <svg height="40" width="40" viewBox="0 0 24 24" fill="#FFF176"><path d="M20 2H4c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-1 14H5V6h14v10z"/></svg><br><b>Design</b>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -73,4 +60,5 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,20&height=120&section=footer" width="100%" alt="footer" />
+<!-- Footer: Pink and Yellow gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=255,255,224,255,182,193&height=120&section=footer" width="100%" alt="footer" />

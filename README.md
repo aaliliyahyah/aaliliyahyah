@@ -34,7 +34,7 @@
 
 | <img src="https://img.shields.io/badge/DESIGN--FIRST-F48FB1?style=for-the-badge&logo=artstation&logoColor=white" alt="DESIGN"/> | <img src="https://img.shields.io/badge/CLEAN--CODE-9575CD?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="CODE"/> | <img src="https://img.shields.io/badge/LIFELONG--LEARNER-CE93D8?style=for-the-badge&logo=simpleanalytics&logoColor=white" alt="LEARNER"/> |
 | :---: | :---: | :---: |
-| **PASSIONATE ABOUT BLENDING AESTHETICS WITH INTUITIVE USER EXPERIENCES.** | **TRANSLATING CONCEPTS INTO CLEAN, RESPONSIVE, AND MAINTAINABLE CODE.** | **CONSTANTLY EXPLORING NEW IDEAS TO PUSH WEB DESIGN BOUNDARIES.** |
+| <br><sub><b>&emsp;PASSIONATE ABOUT BLENDING AESTHETICS WITH INTUITIVE USER EXPERIENCES.&emsp;</b></sub><br><br> | <br><sub><b>&emsp;TRANSLATING CONCEPTS INTO CLEAN, RESPONSIVE, AND MAINTAINABLE CODE.&emsp;</b></sub><br><br> | <br><sub><b>&emsp;CONSTANTLY EXPLORING NEW IDEAS TO PUSH WEB DESIGN BOUNDARIES.&emsp;</b></sub><br><br> |
 
 </div>
 
@@ -51,8 +51,6 @@
 <a href="mailto:aaliyahshandicecatolico@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F48FB1?style=for-the-badge&logo=gmail&logoColor=white" alt="EMAIL"/></a>
 
 </div>
-
-<br/>
 
 <!-- Footer: Pastel Purple & Pink Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=149,117,205,206,147,216,248,187,208&height=90&section=footer" width="100%" alt="FOOTER" />

@@ -14,6 +14,7 @@
 <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/CANVA-CE93D8?style=for-the-badge&logo=canva&logoColor=white" alt="CANVA"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E1BEE7?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-B39DDB?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+<br/>
 <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/BOOTSTRAP-AB47BC?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JAVASCRIPT-9575CD?style=for-the-badge&logo=javascript&logoColor=white" alt="JAVASCRIPT"/></a>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-F48FB1?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/></a>
@@ -26,6 +27,7 @@
 
 <div align="center">
 
+<!-- Section Title: ABOUT ME -->
 <!-- Section Title: ABOUT ME -->
 <p align="center">
   <font size="5" color="#9575CD"><b>✧ ABOUT ME ✧</b></font>
@@ -48,14 +50,9 @@
   <font size="5" color="#9575CD"><b>♡ LET'S CONNECT ♡</b></font>
 </p>
 
-<!-- Pure Vector Icon Links (Transparent Background) -->
-<a href="https://linkedin.com/in/aaliyah-shandice-catolico-a6353b432">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="42" height="42" alt="LINKEDIN"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:aaliyahshandicecatolico@gmail.com">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="42" height="42" alt="EMAIL"/>
-</a>
+
+<a href="https://linkedin.com/in/aaliyah-shandice-catolico-a6353b432"><img src="https://img.shields.io/badge/LINKEDIN-9575CD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN"/></a>
+<a href="mailto:aaliyahshandicecatolico@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F48FB1?style=for-the-badge&logo=gmail&logoColor=white" alt="EMAIL"/></a>
 
 </div>
 
